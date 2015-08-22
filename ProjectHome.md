@@ -1,0 +1,1 @@
+D-Mirage is a Matlab toolbox for performing ground state and time-dependent Density Matrix Renormalization Group computations for one-dimensional quantum spin systems which need not be translation invariant. See <a href='http://stacks.iop.org/1751-8121/41/492001'>this publication</a> or contact <a href='http://www.roslin.ed.ac.uk/tom-michoel'>Tom Michoel</a> for further details.
